@@ -1,4 +1,4 @@
-Personal website: jonnyevans.ml
+Personal website: https://jonnyevans321.github.io/
 
 Hosted on Github Pages.
  
